@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+.meo {
+  height: 100vh;
+  margin: 0px 0px;
+  padding: 0px;
+}
+.ga {
+  background-image: url("https://media.cntraveler.com/photos/5d72b0ef7ffc50000818c6c7/3:2/w_3879,h_2586,c_limit/Seoul,-Korea_GettyImages-560065591.jpg");
+}
+.button-con {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0px;
+}
+
+button {
+  width: 100%;
+  padding: 0px;
+  margin: 5px 0px;
+  border: none;
+  height: 80px;
+}
+.news-container {
+  background-color: rgba(52, 32, 32, 0.756);
+  margin-top: 100px;
+}
+h3 {
+  color: red;
+}
+.Tokyo {
+  background-image: url("https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002533/img/basic/a0002533_main.jpg?20200707161522&q=80&rw=750&rh=536");
+}
+.Hanoi {
+  background-image: url("https://sprudge.com/wp-content/uploads/2019/11/AdobeStock_134800403.jpeg");
+}
+.Taipei {
+  background-image: (
+    "://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/vxcjhqicqpoah4moqiok/V%C3%A9%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20v%C3%A0o%20%C4%90%C3%A0i%20quan%20s%C3%A1t%20Taipei%20101.jpg"
+  );
+}
+.Rome {
+  background-image: url("https://www.elle.vn/wp-content/uploads/2019/10/elle-viet-nam-rome-2.jpg");
+}
+.Paris {
+  background-image: url("https://www.discoverwalks.com/blog/wp-content/uploads/2018/09/paris-from-above-the-5-highest-points-in-paris-6-1280x720.jpg");
+}
+.Wellington {
+  background-image: url("https://tul.imgix.net/content/article/Things-To-Do-Wellington.jpg?auto=format,compress&w=1200&h=630&fit=crop");
+}
+.Athens {
+  background-image: url("https://indochinapost.com/wp-content/uploads/chuyen-phat-nhanh-di-athens.jpg");
+}
+.Vienn {
+  background-image: url("https://www.thepresentisperfect.com/wp-content/uploads/Wien-katu.jpeg");
+}
